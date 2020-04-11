@@ -1,2 +1,5 @@
 # Lucifer
-Information gathering tool
+
+Instagram auto followers
+
+By Tech Cochi 
