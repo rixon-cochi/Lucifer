@@ -660,6 +660,7 @@ menu
 fi
 }
 
-banner
-menu
 
+
+
+menu
