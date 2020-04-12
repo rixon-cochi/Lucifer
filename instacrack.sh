@@ -654,5 +654,5 @@ fi
 }
 
 
-banner
-menu
+
+
