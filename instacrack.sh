@@ -19,9 +19,16 @@ var2=$(echo $var | grep -o 'csrftoken=.*' | cut -d ';' -f1 | cut -d '=' -f2)
 ig_sig="4f8732eb9ba7d1c8e8897a75d6474d4eb3f5279137431b2aafb71fafe2abe178"
 
 
-
-
-figlet LUCIFER | lolcat
+banner() {
+printf "\n"
+printf "\e[1;31m 888                       d8b  .d888 \e[0m\n"                
+printf "\e[1;31m 888                       Y8P d88P" \e[0m\n"       
+printf "\e[1;31m 888                           888 \e[0m\n"   
+printf "\e[1;31m 888     888  888  .d8888b 888 888888 .d88b.  888d888 \e[0m\n"
+printf "\e[1;32m 888     888  888 d88P"    888 888   d8P  Y8b 888P" \e[0m\n"
+printf "\e[1;32m 888     888  888 888      888 888   88888888 888 \e[0m\n"
+printf "\e[1;32m 888     Y88b 888 Y88b.    888 888   Y8b.     888 \e[0m\n" 
+printf "\e[1;32m 88888888 "Y88888  "Y8888P 888 888    "Y8888  888 \e[0m\n"
 
 echo -e "\e[4;34m This Lucifer Was Created By Tech Cochi \e[0m"
 
