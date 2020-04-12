@@ -25,8 +25,8 @@ printf "\e[1;31m db      db    db  .o88b. d888888b d88888b d88888b d8888b. \e[0m
 printf "\e[1;31m 88      88    88 d8P  Y8   `88'   88'     88'     88  `8D \e[0m\n"
 printf "\e[1;31m 88      88    88 8P         88    88ooo   88ooooo 88oobY' \e[0m\n"
 printf "\e[1;31m 88      88    88 8b         88    88~~~   88~~~~~ 88`8b \e[0m\n"
-printf "\e[1;32m 88booo. 88b  d88 Y8b  d8   .88.   88      88.     88 `88. \e[0m\n"
-printf "\e[1;32m Y88888P ~Y8888P'  `Y88P' Y888888P YP      Y88888P 88   YD \e[0m\n"
+printf "\e[1;31m 88booo. 88b  d88 Y8b  d8   .88.   88      88.     88 `88. \e[0m\n"
+printf "\e[1;31m Y88888P ~Y8888P'  `Y88P' Y888888P YP      Y88888P 88   YD \e[0m\n"
 Printf "\n"
 
 printf "      \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m recoded by tech-cochi (thanks to linuxchoice )\e[0m\n"
