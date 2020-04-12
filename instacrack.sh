@@ -30,6 +30,8 @@ printf "\e[1;32m 888     888  888 888      888 888   88888888 888 \e[0m\n"
 printf "\e[1;32m 888     Y88b 888 Y88b.    888 888   Y8b.     888 \e[0m\n" 
 printf "\e[1;32m 88888888 "Y88888  "Y8888P 888 888    "Y8888  888 \e[0m\n"
 printf "\n"
+
+}
 echo -e "\e[4;34m This Lucifer Was Created By Tech Cochi \e[0m"
 
 
