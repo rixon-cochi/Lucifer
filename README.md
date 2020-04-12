@@ -4,7 +4,7 @@ Instagram auto followers
 
 By Tech Cochi 
 
-Git clone https://github.com/rixon-cochi/Lucifer
+Git clone https://github.com/rixon-cochi/Lucifer.git
 
 ls
 
