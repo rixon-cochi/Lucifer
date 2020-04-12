@@ -30,8 +30,9 @@ printf "\e[1;31m _| |__/ |\ \__/ /  \ `.___.'\ _| |_  _| |_     _| |__/ | _| |  
 printf "\e[1;31m |________| `.__.'    `.____ .'|_____||_____|   |________||____| |___| \e[0m\n"
 Printf "\n"
 
-printf "      \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m recoded by tech-cochi (thanks to linuxchoice )\e[0m\n"
 }
+printf "      \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m recoded by tech-cochi (thanks to linuxchoice )\e[0m\n"
+
 
 
 
