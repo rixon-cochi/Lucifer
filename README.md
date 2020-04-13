@@ -14,6 +14,6 @@ bash setup.sh
 
 ls
 
-bash instacrack.sh
+bash instacracker.sh
 
 Code by tech cochi
