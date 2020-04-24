@@ -17,7 +17,7 @@ ls
 bash instacracker.sh
 
 
-!()(image/IMG_20200424_223141.jpg)
+![](IMG_20200424_223141.jpg)
 
 
 Code by tech cochi
