@@ -2,7 +2,7 @@
 
 Instagram auto followers
 
-By Tech Cochi 
+## Tech Cochi 
 
 ![](20200425_125720.png)
 
@@ -19,7 +19,7 @@ ls
 bash instacracker.sh
 
 
-![](IMG_20200424_223141.jpg)
+![](IMG_20200425_200214.jpg)
 
 
 Code by tech cochi
