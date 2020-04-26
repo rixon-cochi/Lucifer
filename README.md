@@ -4,19 +4,31 @@ Instagram auto followers
 
 ## Tech Cochi 
 
-![](20200425_125720.png)
+<img width="53%" src="core/20200425_125720.png"/>
 
 Git clone https://github.com/rixon-cochi/Lucifer.git
 
-ls
+### How to Install
 
-cd Lucifer
+* `apt update`
 
-bash setup.sh
+* `apt upgrade`
 
-ls
+* `apt install git`
 
-bash instacracker.sh
+* `git clone https://github.com/rixon-cochi/Lucifer.git`
+
+* `ls`
+
+* `cd Lucifer`
+
+* `chmod +x *`
+
+* `bash setup.sh`
+
+* `ls`
+
+* `bash instacracker.sh`
 
 
 ![](IMG_20200425_200214.jpg)
