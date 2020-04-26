@@ -40,4 +40,4 @@ Code by tech cochi
 
 **Warning**
 
-'\[e\[31m/] use this tool at your own risk \[e\[0m/]'
+use this tool at your own risk!!!
