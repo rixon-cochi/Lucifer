@@ -4,6 +4,12 @@ Instagram auto followers
 
 ## Tech Cochi 
 
+<br>
+<p align="center">
+<img width="53%" src="20200425_125720.png"/>
+<img width="38%" src="IMG_20200425_200214.jpg"/>
+</p>
+
 <img width="53%" src="core/20200425_125720.png"/>
 
 Git clone https://github.com/rixon-cochi/Lucifer.git
@@ -29,9 +35,6 @@ Git clone https://github.com/rixon-cochi/Lucifer.git
 * `ls`
 
 * `bash instacracker.sh`
-
-
-![](IMG_20200425_200214.jpg)
 
 
 Code by tech cochi
