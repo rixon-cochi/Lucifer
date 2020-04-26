@@ -4,15 +4,14 @@ Instagram auto followers
 
 ## Tech Cochi 
 
+
+
 <br>
 <p align="center">
 <img width="53%" src="20200425_125720.png"/>
 <img width="38%" src="IMG_20200425_200214.jpg"/>
 </p>
 
-<img width="53%" src="core/20200425_125720.png"/>
-
-Git clone https://github.com/rixon-cochi/Lucifer.git
 
 ### How to Install
 
@@ -39,4 +38,6 @@ Git clone https://github.com/rixon-cochi/Lucifer.git
 
 Code by tech cochi
 
-#Youtube : 
+**Warning**
+
+use this tool at your own risk!
