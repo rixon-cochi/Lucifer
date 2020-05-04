@@ -42,6 +42,7 @@ Code by tech cochi
 
 use this tool at your own risk!!!
 
+[![Instagram]
 
 ## [+] Find Me on :
 ### [~] [Telegram](https://t.me/tech_cochi)
