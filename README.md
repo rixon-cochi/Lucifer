@@ -36,15 +36,15 @@ Instagram auto followers
 * `bash instacracker.sh`
 
 
-Code by tech cochi
+# Code by tech cochi
 
 **Warning**
 
-use this tool at your own risk!!!
+## use this tool at your own risk!!!
 
-[![Instagram]
+## [![Instagram]
 
-## [+] Find Me on :
+# [+] Find Me on :
 
 
 [![Github](https://img.shields.io/badge/Github-TECH--COCHI-green?style=for-the-badge&logo=github)](https://github.com/rixon-cochi)
