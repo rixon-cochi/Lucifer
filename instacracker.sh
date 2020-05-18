@@ -29,7 +29,7 @@ printf "\e[1;32m | |___| |__| | |____ _| |_| |    | |____| | \ \ \e[0m\n"
 printf "\e[1;32m |______\____/ \_____|_____|_|    |______|_|  \_\ \e[0m\n"
 printf "\n"
 
-printf "\e[1;31m[\e[0mv1.0\e[0m\e[1;31m]\e[0m\e[1;33m code by Tech-Cochi\e[0m\n"
+printf \e[101m\e[1;77m:: v1.2: Code by TECH COCHI ::\e[0m\n"
 
 
 }            
@@ -600,18 +600,18 @@ printf "\e[1;31m[\e[0m\e[1;77m+\e[0m\e[1;31m]\e[0m\e[1;93m Saved:\e[0m\e[1;77m %
 menu() {
 
 printf "\n"
-printf " \e[1;31m[\e[0m\e[1;77m01\e[0m\e[1;202m]\e[0m\e[1;96m Unfollow Tracker\e[0m\n"
-printf " \e[1;31m[\e[0m\e[1;77m02\e[0m\e[1;202m]\e[0m\e[1;96m Increase Followers\e[0m\n"
-printf " \e[1;31m[\e[0m\e[1;77m03\e[0m\e[1;202m]\e[0m\e[1;96m Download Stories\e[0m\n"
-printf " \e[1;31m[\e[0m\e[1;77m04\e[0m\e[1;202m]\e[0m\e[1;96m Download Saved Content\e[0m\n"
-printf " \e[1;31m[\e[0m\e[1;77m05\e[0m\e[1;202m]\e[0m\e[1;96m Download Following List\e[0m\n"
-printf " \e[1;31m[\e[0m\e[1;77m06\e[0m\e[1;202m]\e[0m\e[1;96m Download Followers List\e[0m\n"
-printf " \e[1;31m[\e[0m\e[1;77m07\e[0m\e[1;202m]\e[0m\e[1;96m Download Profile Info\e[0m\n"
-printf " \e[1;31m[\e[0m\e[1;77m08\e[0m\e[1;202m]\e[0m\e[1;96m Activate Unfollower\e[0m\n"
+printf " \e[1;31m[\e[0m\e[1;77m01\e[0m\e[1;102m]\e[0m\e[1;96m Unfollow Tracker\e[0m\n"
+printf " \e[1;31m[\e[0m\e[1;77m02\e[0m\e[1;102m]\e[0m\e[1;96m Increase Followers\e[0m\n"
+printf " \e[1;31m[\e[0m\e[1;77m03\e[0m\e[1;102m]\e[0m\e[1;96m Download Stories\e[0m\n"
+printf " \e[1;31m[\e[0m\e[1;77m04\e[0m\e[1;102m]\e[0m\e[1;96m Download Saved Content\e[0m\n"
+printf " \e[1;31m[\e[0m\e[1;77m05\e[0m\e[1;102m]\e[0m\e[1;96m Download Following List\e[0m\n"
+printf " \e[1;31m[\e[0m\e[1;77m06\e[0m\e[1;102m]\e[0m\e[1;96m Download Followers List\e[0m\n"
+printf " \e[1;31m[\e[0m\e[1;77m07\e[0m\e[1;102m]\e[0m\e[1;96m Download Profile Info\e[0m\n"
+printf " \e[1;31m[\e[0m\e[1;77m08\e[0m\e[1;102m]\e[0m\e[1;96m Activate Unfollower\e[0m\n"
 printf "\n"
 
 
-read -p $' \e[1;31m[\e[0m\e[1;77m::\e[0m\e[1;31m]\e[0m\e[1;77m Choose an option: \e[0m' option
+read -p $' \e[1;31m[\e[0m\e[1;77m::\e[0m\e[1;31m]\e[0m\e[1;92m Choose an option: \e[0m' option
 
 if [[ $option -eq 1 ]]; then
 login_user
