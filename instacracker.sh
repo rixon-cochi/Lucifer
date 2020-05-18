@@ -600,14 +600,14 @@ printf "\e[1;31m[\e[0m\e[1;77m+\e[0m\e[1;31m]\e[0m\e[1;93m Saved:\e[0m\e[1;77m %
 menu() {
 
 printf "\n"
-printf " \e[1;101m\e[1;97m01\e[1;101m]\e[0m\e[1;96m Unfollow Tracker\e[0m\n"
-printf " \e[1;101m\e[1;97m02\e[1;101m]\e[0m\e[1;96m Increase Followers\e[0m\n"
-printf " \e[1;101m\e[1;97m03\e[1;101m]\e[0m\e[1;96m Download Stories\e[0m\n"
-printf " \e[1;101m\e[1;97m04\e[1;101m]\e[0m\e[1;96m Download Saved Content\e[0m\n"
-printf " \e[1;101m\e[1;97m05\e[1;101m]\e[0m\e[1;96m Download Following List\e[0m\n"
-printf " \e[1;101m\e[1;97m06\e[1;101m]\e[0m\e[1;96m Download Followers List\e[0m\n"
-printf " \e[1;101m\e[1;97m07\e[1;101m]\e[0m\e[1;96m Download Profile Info\e[0m\n"
-printf " \e[1;101m\e[1;97m08\e[1;101m]\e[0m\e[1;96m Activate Unfollower\e[0m\n"
+printf " \e[1;101m\e[1;97m01\e[1;101m\e[0m\e[1;96m Unfollow Tracker\e[0m\n"
+printf " \e[1;101m\e[1;97m02\e[1;101m\e[0m\e[1;96m Increase Followers\e[0m\n"
+printf " \e[1;101m\e[1;97m03\e[1;101m\e[0m\e[1;96m Download Stories\e[0m\n"
+printf " \e[1;101m\e[1;97m04\e[1;101m\e[0m\e[1;96m Download Saved Content\e[0m\n"
+printf " \e[1;101m\e[1;97m05\e[1;101m\e[0m\e[1;96m Download Following List\e[0m\n"
+printf " \e[1;101m\e[1;97m06\e[1;101m\e[0m\e[1;96m Download Followers List\e[0m\n"
+printf " \e[1;101m\e[1;97m07\e[1;101m\e[0m\e[1;96m Download Profile Info\e[0m\n"
+printf " \e[1;101m\e[1;97m08\e[1;101m\e[0m\e[1;96m Activate Unfollower\e[0m\n"
 printf "\n"
 
 
