@@ -29,7 +29,7 @@ printf "\e[1;32m | |___| |__| | |____ _| |_| |    | |____| | \ \ \e[0m\n"
 printf "\e[1;32m |______\____/ \_____|_____|_|    |______|_|  \_\ \e[0m\n"
 printf "\n"
 
-printf \e[101m\e[1;77m:: v1.2: Code by TECH COCHI ::\e[0m\n"
+printf " \e[101m\e[1;77m:: CODE RECORDED BY TECH COCHI V1.2  ::\e[0m\n"
 
 
 }            
