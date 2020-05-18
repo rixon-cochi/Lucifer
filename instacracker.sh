@@ -1,5 +1,5 @@
 #!/bin/bash
-# Lucifer v1.0
+# Lucifer v1.2
 # recoded by: Tech Cochi
 # github.com/rixon-cochi/Lucifer
 # If you use any part from this code, give me the credits, please, read the License
@@ -36,7 +36,7 @@ printf " \e[101m\e[1;77m:: CODE RECORDED BY TECH COCHI V1.2  ::\e[0m\n"
 
 
 
-printf "      \e[1;31m[\e[0m\e[1;77mv1.0\e[0m\e[1;31m]\e[0m\e[1;77m recoded by tech-cochi (thanks to linuxchoice )\e[0m\n"
+printf "      \e[1;31m[\e[0m\e[1;77mV1.2\e[0m\e[1;31m]\e[0m\e[1;77m recoded by tech-cochi (®©)\e[0m\n"
 
 
 
