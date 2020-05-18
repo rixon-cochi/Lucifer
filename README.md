@@ -9,7 +9,7 @@ Instagram auto followers
 <br>
 <p align="center">
 <img width="53%" src="20200425_125720.png"/>
-<img width="38%" src="IMG_20200425_200214.jpg"/>
+<img width="38%" src="20200519_022809.png"/>
 </p>
 
 
