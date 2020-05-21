@@ -1,8 +1,8 @@
 # Lucifer
 
-Instagram auto followers
+### Instagram auto followers
 
-## Tech Cochi 
+# Tech Cochi 
 
 
 
@@ -42,7 +42,6 @@ Instagram auto followers
 
 ## use this tool at your own risk!!!
 
-## [![Instagram]
 
 # [+] Find Me on :
 
