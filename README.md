@@ -1,4 +1,4 @@
-# Lucifer
+# Lucifer v1.2
 
 ### Instagram auto followers
 
