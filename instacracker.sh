@@ -414,7 +414,7 @@ done
 
 increase_followers() {
 
-printf "\e[1;77m[\e[0m\e[1;31m+\e[0m\e[1;77m This technique consists of\e[1;32mfollowing/unfolling0m \e[1;77m celebgrams\e[0m\n"
+printf "\e[1;77m[\e[0m\e[1;31m+\e[0m\e[1;77m This technique consists of\e[1;32m following/unfolling\e[0m\e[1;77m celebgrams\e[0m\n"
 printf "\e[1;77m[\e[0m\e[1;31m+\e[0m\e[1;77m] It can increase your followers up to about +30 in 1 hour \e[0m\n"
 printf "\e[1;77m[\e[0m\e[1;31m+\e[0m\e[1;77m]\e[0m\e[1;93m Press Ctrl + C to stop \e[0m\n"
 sleep 5
