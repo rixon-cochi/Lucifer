@@ -46,7 +46,7 @@ login_user() {
 
 if [[ $user == "" ]]; then
 printf "\e[1;31m[\e[0m\e[1;77m*\e[0m\e[1;31m]\e[0m\e[1;93m Login\e[0m\n"
-read -p $'\e[1;31m[\e[0m\e[1;77m+\e[0m\e[1;31m]\e[0m\e[1;93m Username: \e[0m' user
+read -p $'\e[1;31m[\e[0m\e[1;77m+\e[0m\e[1;31m]\e[0m\e[1;93m Instagram ID : \e[1;92m' user
 fi
 
 if [[ -e cookie.$user ]]; then
