@@ -414,7 +414,7 @@ done
 
 increase_followers() {
 
-printf "\e[1;77m[\e[0m\e[1;31m+\e[0m\e[1;77m This technique consists of \e[1;31m following/unfolling \e[1;77m celebgrams\e[0m\n"
+printf "\e[1;77m[\e[0m\e[1;31m+\e[0m\e[1;77m This technique consists of\e[1;32mfollowing/unfolling0m \e[1;77m celebgrams\e[0m\n"
 printf "\e[1;77m[\e[0m\e[1;31m+\e[0m\e[1;77m] It can increase your followers up to about +30 in 1 hour \e[0m\n"
 printf "\e[1;77m[\e[0m\e[1;31m+\e[0m\e[1;77m]\e[0m\e[1;93m Press Ctrl + C to stop \e[0m\n"
 sleep 5
@@ -433,10 +433,10 @@ kylie="12281817"
 jelopez="305701719"
 messi="427553890"
 
-rixonxavier="4563219901"
+dualipa="12331195"
 mileycyrus="325734299"
 shawnmendes="212742998"
-techcochi="31996005233"
+katyperry="407964088"
 charlieputh="7555881"
 lelepons="177402262"
 camila_cabello="19596899"
@@ -448,7 +448,7 @@ instagram="25025320"
 
 
 if [[ ! -e celeb_id ]]; then
-printf "%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n" $rixonxavier $mileycyrus $shawnmendes $techcochi $charlieputh $lelepons $camila_cabello $madonna $leonardodicaprio $ladygaga $taylorswift $instagram $neymar $selena $ariana $beyonce $cristiano $kimkardashian $kendall $therock $kylie $jelopez $messi > celeb_id
+printf "%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n%s\n" $dualipa $mileycyrus $shawnmendes $katyperry $charlieputh $lelepons $camila_cabello $madonna $leonardodicaprio $ladygaga $taylorswift $instagram $neymar $selena $ariana $beyonce $cristiano $kimkardashian $kendall $therock $kylie $jelopez $messi > celeb_id
 fi
 
 while [[ true ]]; do
