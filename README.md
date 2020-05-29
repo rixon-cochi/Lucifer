@@ -4,6 +4,9 @@
 
 # Tech Cochi 
 
+[![Build Status](https://img.shields.io/github/forks/rixon-cochi/Lucifer.svg)](https://github.com/rixon-cochi/Lucifer)
+[![Build Status](https://img.shields.io/github/stars/rixon-cochi/Lucifer.svg)](https://github.com/rixon-cochi/Lucifer)
+[![License](https://img.shields.io/github/license/rixon-cochi/Lucifer.svg)](https://github.com/rixon-cochi/Lucifer)
 
 
 <br>
