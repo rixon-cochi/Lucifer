@@ -1,6 +1,8 @@
 # Lucifer v1.2
-<a href='https://m.miningbase.cloud/index.php?reffid=qqSwq5qT' target='_blank'><img src='https://m.miningbase.cloud/assets/img/728.gif'></a> 
-
+<a href="https://bestmining.top/?ref=rockrixon"  target="_blank">
+<img src="https://bestmining.top/public/banner/234x60.gif"/>
+</a>
+                    
 ### Instagram auto followers
 
 # Tech Cochi 
