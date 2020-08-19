@@ -12,6 +12,7 @@ apt install ruby -y
 gem install lolcat
 apt install git curl openssh openssl openssl-tool -y
 figlet -f big FINISHED !!! | lolcat
+xdg-open https://www.youtube.com/channel/UCiE0p7rXWBEncUVsLo1C5Xg
 echo
 echo -e "\e[1m Now Run bash instacrack.sh...!!!"
 echo
