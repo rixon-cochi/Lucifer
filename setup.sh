@@ -17,7 +17,7 @@ echo
 echo -e "\e[1m CREATE ACCOUNT ON ECOIN "
 echo
 echo
-xdg -open https://ecoinofficial.org/referral/l34esv0
+xdg-open https://ecoinofficial.org/referral/l34esv0
 echo 
 echo 
 echo
