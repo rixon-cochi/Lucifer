@@ -25,7 +25,8 @@ echo -e "\e[1m\e[92m 4. VERIFY YOUR PHONE NUMBER WITH TELEGRAM \e[33m"
 echo
 echo -e "\e[1m\e[92m 5. ECOIN ACCOUNT FULLY VERIFIED \e[33m"
 echo 
-sleep 10
+echo -e "\e[1m\e[92m READ THE FOLLOWING INFORMATION PLZ WAIT 20 seconds \e[33m"
+sleep 20
 xdg-open https://ecoinofficial.org/referral/l34esv0
 echo 
 echo 
