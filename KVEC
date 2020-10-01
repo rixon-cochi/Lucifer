@@ -1,0 +1,28 @@
+#!/bin/bash
+echo " ENTER THE KEY : "
+trap CODE INT
+MQCPTLMGSPGMTTPSMCPNGKLPIMTBR12HYG() {
+clear
+echo  "Loading."
+sleep 1
+clear
+echo "Loading.."
+sleep 1
+clear
+echo "Loading..."
+sleep 1
+clear
+echo "Loading."
+sleep 1
+clear
+echo "Loading.."
+sleep 1
+clear
+echo "Loading..."
+sleep 1
+clear
+echo ""
+echo "DONE " | lolcat
+sleep 1
+exit
+}
