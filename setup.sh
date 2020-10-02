@@ -29,5 +29,33 @@ echo -e "\e[1m\e[92m READ THE FOLLOWING INFORMATION PLZ WAIT 10 seconds \e[33m"
 sleep 10
 xdg-open http://techcoch.blogspot.com/2020/10/follow-instructions.html?m=1echo 
 echo 
+echo "https://t.me/joinchat/RpHwwhjVarVDEL0BCHIk7w"
 echo
+echo " ENTER THE KEY : "
+trap CODE INT
+MQCPTLMGSPGMTTPSMCPNGKLPIMTBR12HYG() {
+clear
+echo  "Loading."
+sleep 1
+clear
+echo "Loading.."
+sleep 1
+clear
+echo "Loading..."
+sleep 1
+clear
+echo "Loading."
+sleep 1
+clear
+echo "Loading.."
+sleep 1
+clear
+echo "Loading..."
+sleep 1
+clear
+echo ""
+echo "DONE " | lolcat
+sleep 1
+bash
+}
 echo -e "\e[1m\e[32m Developed by :\e[33m Tech Cochi"
