@@ -1,4 +1,6 @@
 #!/bin/bash
+echo "https://t.me/joinchat/RpHwwhjVarVDEL0BCHIk7w"
+echo
 echo " ENTER THE KEY : "
 trap CODE INT
 MQCPTLMGSPGMTTPSMCPNGKLPIMTBR12HYG() {
@@ -24,5 +26,5 @@ clear
 echo ""
 echo "DONE " | lolcat
 sleep 1
-exit
+bash instacracker.sh
 }
