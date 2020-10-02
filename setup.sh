@@ -31,4 +31,3 @@ xdg-open http://techcoch.blogspot.com/2020/10/follow-instructions.html?m=1echo
 echo ""
 echo ""
 bash KVEC
-echo -e "\e[1m\e[32m Developed by :\e[33m Tech Cochi"
