@@ -21,4 +21,8 @@ sleep 10
 echo ""
 echo " code recorded by tech-cochi "
 sleep 5
-bash instacracker.sh
+sleep 10
+echo " create account on ecoin "
+echo " set your browser "
+termux-open-url https://earnecoin.com/refer/l34esv0
+echo ""
