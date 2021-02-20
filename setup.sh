@@ -22,7 +22,7 @@ echo ""
 echo " code recorded by tech-cochi "
 sleep 5
 sleep 10
-echo " create account on ecoin "
+echo " create account on cashkaro.com "
 echo " set your browser "
-termux-open-url http://techcoch.blogspot.com/2020/10/follow-instructions.html?m=1
+termux-open-url https://cashkaro.com?r=8026255&fname=Rixon
 echo ""
