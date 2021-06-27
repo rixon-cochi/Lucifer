@@ -15,7 +15,7 @@ figlet -f big FINISHED !!! | lolcat
 echo ""
 echo ""
 echo " SUBSCRIBE MY CHANNEL 🔔 " | lolcat
-xdg-open https://www.youtube.com/channel/UCiE0p7rXWBEncUVsLo1C5Xg
+xdg-open https://www.youtube.com/channel/HYDRAGAMING4U
 echo ""
 sleep 10 
 echo ""
